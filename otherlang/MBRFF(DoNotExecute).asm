@@ -49,7 +49,7 @@ _start:
     xor ebx, ebx
     int 0x80
 
-; 에러시 프로그램종
+; 에러시 프로그램종료
 .error:
     mov eax, 1
     xor ebx, ebx
