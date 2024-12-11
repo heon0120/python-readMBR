@@ -1,6 +1,11 @@
 # python-rwMBR
 Read/Write MBR using PYTHON(?) - (MBR공부용 삽질리포)
 
+> [!Warning]
+> 경고! 본 프로그램은 반드시 학습용도로 사용하십시오.
+> 본 코드를 실행하여 발생한 모든 책임은 사용자에게 있습니다.
+
+
 # readmbr.py
 MBR은 첫 512바이트로 구성되며, 부트로더와 파티션 테이블 정보를 포함하고 있습니다.
 
