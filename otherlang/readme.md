@@ -1,7 +1,7 @@
 # MBRFF(DoNotExecute).asm
 이 프로그램은 MBRFF(DoNotExecute).py를 기반으로 어셈블리어로 제작성한 파일입니다. 작동방법은 MBRFF(DoNotExecute).py와 같습니다.
 
-~~어셈블리어를 공부하기위해 만들었긴 했지만 chatgpt 지분 90%..~~
+~~어셈블리어를 공부하기위해 만들었긴 했지만 chatgpt 지분 99%..~~
 ```asm
 disk_path db '\\.\PhysicalDrive0', 0
 ```
