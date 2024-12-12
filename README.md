@@ -34,4 +34,4 @@ modify_mbr_windows(r'\\.\PhysicalDrive0')
 ```python
 modify_mbr_windows()
 ```
-함수 \\.\PhysicalDrive0 를 열고 0xFF를 512바이트 에 씁니다.
+함수를 \\.\PhysicalDrive0 드라이브로 열고 0xFF를 512바이트 에 씁니다.
