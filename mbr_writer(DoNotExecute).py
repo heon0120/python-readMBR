@@ -1,4 +1,4 @@
-# 본 프로그램은 MBR(Master Boot Recoder)를 Hello, World! 가 출력되는 부트로더로 덮어씁니다.
+# 본 프로그램은 MBR(Master Boot Recoder)를 Hello, World! 가 쓰여지는 부트로더로 덮어씁니다.
 # 따라서 부팅이 불가능해지며, 실제 실행은 절대 시도하지 마십시오.
 # 실행은 가상머신이나 독립된 컴퓨터에서 실행하십시오.
 #
