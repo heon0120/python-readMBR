@@ -12,7 +12,7 @@ import ctypes
 def create_bootloader_file(file_path):
     bootloader = (
         b"\xEB\x3C\x90"
-        b"Hello, Bootloader!\x00"
+        b"Hello, World!\x00"
         + b"\x00" * (510 - len("Hello, World!") - 3)
         + b"\x55\xAA"
     )
